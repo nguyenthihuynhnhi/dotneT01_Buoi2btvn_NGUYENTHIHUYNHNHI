@@ -1,0 +1,15 @@
+E:\01-Bootcamp-DotNet\Buoi2\btvn\bin\Debug\net8.0\btvn_buoi2.exe
+E:\01-Bootcamp-DotNet\Buoi2\btvn\bin\Debug\net8.0\btvn_buoi2.deps.json
+E:\01-Bootcamp-DotNet\Buoi2\btvn\bin\Debug\net8.0\btvn_buoi2.runtimeconfig.json
+E:\01-Bootcamp-DotNet\Buoi2\btvn\bin\Debug\net8.0\btvn_buoi2.dll
+E:\01-Bootcamp-DotNet\Buoi2\btvn\bin\Debug\net8.0\btvn_buoi2.pdb
+E:\01-Bootcamp-DotNet\Buoi2\btvn\obj\Debug\net8.0\btvn_buoi2.GeneratedMSBuildEditorConfig.editorconfig
+E:\01-Bootcamp-DotNet\Buoi2\btvn\obj\Debug\net8.0\btvn_buoi2.AssemblyInfoInputs.cache
+E:\01-Bootcamp-DotNet\Buoi2\btvn\obj\Debug\net8.0\btvn_buoi2.AssemblyInfo.cs
+E:\01-Bootcamp-DotNet\Buoi2\btvn\obj\Debug\net8.0\btvn_buoi2.csproj.CoreCompileInputs.cache
+E:\01-Bootcamp-DotNet\Buoi2\btvn\obj\Debug\net8.0\btvn_buoi2.sourcelink.json
+E:\01-Bootcamp-DotNet\Buoi2\btvn\obj\Debug\net8.0\btvn_buoi2.dll
+E:\01-Bootcamp-DotNet\Buoi2\btvn\obj\Debug\net8.0\refint\btvn_buoi2.dll
+E:\01-Bootcamp-DotNet\Buoi2\btvn\obj\Debug\net8.0\btvn_buoi2.pdb
+E:\01-Bootcamp-DotNet\Buoi2\btvn\obj\Debug\net8.0\btvn_buoi2.genruntimeconfig.cache
+E:\01-Bootcamp-DotNet\Buoi2\btvn\obj\Debug\net8.0\ref\btvn_buoi2.dll
